@@ -1,0 +1,8 @@
+# Example atomic coordinates for symmetry group classification
+# Format: x y z (space or comma separated)
+# This example shows a square planar arrangement (4 atoms at corners of a square)
+
+1.0 1.0 0.0
+-1.0 1.0 0.0
+-1.0 -1.0 0.0
+1.0 -1.0 0.0

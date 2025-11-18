@@ -1,0 +1,6 @@
+# Example: Triangular arrangement (3-fold symmetry)
+# Three atoms arranged in an equilateral triangle
+
+1.0 0.0 0.0
+-0.5 0.866 0.0
+-0.5 -0.866 0.0
