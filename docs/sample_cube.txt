@@ -1,0 +1,11 @@
+# Example: Cubic arrangement (high symmetry)
+# 8 atoms at corners of a cube
+
+1, 1, 1
+1, 1, -1
+1, -1, 1
+1, -1, -1
+-1, 1, 1
+-1, 1, -1
+-1, -1, 1
+-1, -1, -1
